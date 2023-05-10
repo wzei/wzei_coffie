@@ -1,2 +1,10 @@
 from .user import User
-
+from .base import BaseModel
+from .assigned_task import AssignedTask
+from .location import Location
+from .match import Match
+from .meeting import Meeting
+from .task_entity import TaskEntity
+from .task_type import TaskType
+from .student import Student
+from .design_pattern import DesignPattern
